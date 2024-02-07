@@ -5,8 +5,8 @@ Welcome to the **Video Game Audio Datasets** repository! This collection offers 
 
 ## Dataset Fields
 | Category | File Name | Audio File Format | Sample Rate | Bit Depth | Duration (s) | Channels | Integrated | Dynamic Range | True Peak | Max Short-Term | Max Momentary |
-|-----|-----------|-------------------|-------------|-----------|--------------|----------|------------|---------------|-----------|----------------|---------------|
-|     |           |                   |             |           |              |          |            |               |           |                |               |
+|----------|-----------|-------------------|-------------|-----------|--------------|----------|------------|---------------|-----------|----------------|---------------|
+|          |           |                   |             |           |              |          |            |               |           |                |               |
 
 ## Note on Ownership
 It's crucial to emphasize that the repository solely provides analytical data, and **the initial audio files' rights are not owned by the repository creator**. Users are encouraged to respect the intellectual property rights of the respective video game studios.
