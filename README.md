@@ -4,7 +4,7 @@
 Welcome to the **Video Game Audio Datasets** repository! This collection offers insights into the audio qualities of various video games, encompassing details such as loudness measurements, file types, sample rates, lengths, and more. Please note that, unless specified, **I do not own the rights to any of the original audio files analyzed**.
 
 ## Dataset Fields
-| Use | File Name | Audio File Format | Sample Rate | Bit Depth | Duration (s) | Channels | Integrated | Dynamic Range | True Peak | Max Short-Term | Max Momentary |
+| Category | File Name | Audio File Format | Sample Rate | Bit Depth | Duration (s) | Channels | Integrated | Dynamic Range | True Peak | Max Short-Term | Max Momentary |
 |-----|-----------|-------------------|-------------|-----------|--------------|----------|------------|---------------|-----------|----------------|---------------|
 |     |           |                   |             |           |              |          |            |               |           |                |               |
 
