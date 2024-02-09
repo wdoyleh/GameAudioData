@@ -1,7 +1,8 @@
-# Video Game Audio Datasets
+# Game Audio Insights
 
 ## Overview
-Welcome to the **Video Game Audio Datasets** repository! This collection offers insights into the audio qualities of various video games, encompassing details such as loudness measurements, file types, sample rates, lengths, and more. Please note that, unless specified, **I do not own the rights to any of the original audio files analyzed**.
+Welcome to the **Game Audio Insights** repository! This archive offers insights into the audio qualities of various video games, encompassing details such as best practices and metrics across asset libraries. For the moment, the main focus of this repository will be datasets that focus on more quantitative metrics of audio assets.
+Please note that, unless specified, **I do not own the rights to any of the original audio files analyzed**.
 
 ## Dataset Fields
 | Category | File Name | Format | Duration (s) | Sample Rate | Bit Depth | Channels | Integrated | Max Momentary |
