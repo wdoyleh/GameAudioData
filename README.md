@@ -7,7 +7,13 @@ For the moment, the main focus of this repository will be datasets that focus on
 
 Please note that, unless specified, **I do not own the rights to any of the original audio files analyzed**.
 
-## Dataset Fields
+## Dataset 
+###Organization
+Datasets are organized by publisher, an example being Kingdom Hearts being found in 'Datasets/Square Enix/KH1_Audio_Dataset.csv'
+
+### Dataset Fields
+Each dataset will follow this long structure:
+
 | Category | File Name | Format | Duration (s) | Sample Rate | Bit Depth | Channels | Integrated | Max Momentary |
 |----------|-----------|--------|--------------|-------------|-----------|----------|------------|---------------|
 |          |           |        |              |             |           |          |            |               |
