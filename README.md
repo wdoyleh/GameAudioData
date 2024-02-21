@@ -1,5 +1,8 @@
 # Game Audio Insights
 
+##Curator
+William Doyle-Hyytinen
+
 ## Overview
 Welcome to the **Game Audio Insights** repository! This archive offers insights into the audio qualities of various video games, encompassing details such as best practices and metrics across asset libraries. 
 
