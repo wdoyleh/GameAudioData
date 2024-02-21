@@ -1,6 +1,6 @@
 # Game Audio Insights
 
-##Curator
+## Curator
 William Doyle-Hyytinen
 
 ## Overview
